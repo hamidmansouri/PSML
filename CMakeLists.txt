@@ -1,3 +1,9 @@
 cmake_minimum_required(VERSION 2.6)
 project (PSML)
-add_executable(${PROJECT_NAME} main.cpp)
+set(SOURCES
+    src/main.cpp
+    src/PipeletsTransform.cpp
+    src/Pipelets.cpp    
+)
+
+add_executable(${PROJECT_NAME} ${SOURCES})
