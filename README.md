@@ -19,6 +19,7 @@ In terms of using this code or the results, please refer to:
 # Source code
 
 # Build
+[![Build status](https://ci.appveyor.com/api/projects/status/6xaqfq8iytxwlx4r?svg=true)](https://ci.appveyor.com/project/hamidmansouri/psml)
 
 # Dataset
 
